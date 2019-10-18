@@ -1,0 +1,11 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/ca/M5V"
+    },
+    "response": {
+        "status": 200,
+		"headers": { "Content-Type": "application/json" },
+        "jsonBody": {"post code": "M5V","country": "Canada","country abbreviation": "CA","places": [{"place name": "Secret Location Studios","longitude": "-118.4065","state": "Ontario","state abbreviation": "ON","latitude": "34.0901"}]}
+    }
+}

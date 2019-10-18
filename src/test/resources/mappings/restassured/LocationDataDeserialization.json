@@ -1,0 +1,11 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/pl/80-862"
+    },
+    "response": {
+        "status": 200,
+		"headers": { "Content-Type": "application/json" },
+        "jsonBody": {"postCode":"80-862","country":"Poland","countryAbbreviation":"PL","places":[{"placeName":"Gdańsk","state":"Pomorskie","stateAbbreviation":""}]}
+    }
+}

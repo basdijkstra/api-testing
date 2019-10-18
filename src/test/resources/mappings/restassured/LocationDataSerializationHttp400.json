@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/us/68746",
+		"bodyPatterns":[{
+			"equalToJson": {"postCode":"68745","country":"United States","countryAbbreviation":"US","places":[{"placeName":"Monowi","state":"Nebraska","stateAbbreviation":"NE"}]}
+		}] 
+    },
+    "response": {
+        "status": 400,
+		"headers": { "Content-Type": "application/json" }
+    }
+}
